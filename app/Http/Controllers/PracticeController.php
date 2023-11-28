@@ -2,8 +2,8 @@
 
 namespace App\Http\Controllers;
 
-use App\Submodules\Calculator;
 use Illuminate\Http\Request;
+use ModuleCommon\Calculator;
 
 class PracticeController extends Controller
 {
